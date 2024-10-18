@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    text-size-adjust: 45px;
+}
+.form-style{
+    margin: 10px;
+}
+.button{
+    background-color: green;
+    color: white;
+}
